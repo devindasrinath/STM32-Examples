@@ -1,0 +1,2 @@
+C:\Users\MSI\Desktop\STM32 tutorials\Project\EmbeddedProject1\External Drivers\OLED Display\fonts.c|CMakeFiles/EmbeddedProject1.dir/External_Drivers/OLED_Display/fonts.c.obj
+C:\Users\MSI\Desktop\STM32 tutorials\Project\EmbeddedProject1\External Drivers\OLED Display\ssd1306.c|CMakeFiles/EmbeddedProject1.dir/External_Drivers/OLED_Display/ssd1306.c.obj

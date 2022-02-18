@@ -1,0 +1,5 @@
+C:/Users/MSI/Desktop/STM32 tutorials/Project/EmbeddedProject1/build/VisualGDB/Debug/CMakeFiles/BSP.dir
+C:/Users/MSI/Desktop/STM32 tutorials/Project/EmbeddedProject1/build/VisualGDB/Debug/CMakeFiles/EmbeddedProject1.dir
+C:/Users/MSI/Desktop/STM32 tutorials/Project/EmbeddedProject1/build/VisualGDB/Debug/CMakeFiles/EmbeddedProject1-bin.dir
+C:/Users/MSI/Desktop/STM32 tutorials/Project/EmbeddedProject1/build/VisualGDB/Debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI/Desktop/STM32 tutorials/Project/EmbeddedProject1/build/VisualGDB/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+# ninja log v5
+25	173	666603549	CMakeFiles/BSP.dir/startup_stm32f103xb.s.obj	4158884c83918480
+1	251	666603549	CMakeFiles/EmbeddedProject1.dir/C_/Program_Files_(x86)/Sysprogs/VisualGDB/CMake/embedded/dummy.c.obj	18181023cea3d3ca
+50	808	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	d61993f792acf665
+12	826	666603550	CMakeFiles/BSP.dir/Src/system_stm32f1xx.c.obj	e3714df08f116d42
+61	843	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	f836bf69b23e06b3
+37	884	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	9dc384b95c78808
+108	959	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	f57091705719250a
+131	1010	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	202f55818413df26
+154	1063	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	4ac056d8c618d2f2
+82	1269	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	a0c12a42ae4700ba
+175	1338	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	a865182a8b07f7db
+254	1358	666603550	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	2e305f323f5ad1da
+843	1619	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	1a0b30ec8132e1af
+826	1699	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	fe9d85c5e30d9cb6
+959	1764	666603551	CMakeFiles/BSP.dir/Src/stm32f1xx_it.c.obj	9a6000d9989b27bb
+885	1776	666603551	CMakeFiles/BSP.dir/Src/stm32f1xx_hal_msp.c.obj	eb3db63521a1f87e
+1064	1862	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	a0e352b1eef157dd
+1011	1890	666603551	CMakeFiles/BSP.dir/Src/main.c.obj	6a639921d4eb0e54
+1270	1964	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	fd89c44e973c7b5c
+1338	1982	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	bfc3116fc71616ea
+810	2017	666603551	CMakeFiles/BSP.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj	34697427858f9814
+2	566	666603732	CMakeFiles/EmbeddedProject1.dir/External_Drivers/OLED_Display/fonts.c.obj	f70f68a602eeca6e
+14	655	666603732	CMakeFiles/EmbeddedProject1.dir/External_Drivers/OLED_Display/ssd1306.c.obj	b39f8235060c299d
